@@ -82,9 +82,9 @@ The project submission passed the Udacity review on 15 June 2026. As the app was
 
 ## Certificate
 
-This project was completed as part of the Udacity AWS AI & ML Scholars Challenge in June 2026.
+Completed as part of the Udacity AWS AI & ML Scholars Challenge in June 2026.
 
-The certificate provides supporting evidence of my completion of the programme through which I developed this project.
+[View my AI & ML Challenge Certificate](AI%20_ML%20Challenge%20Certificate.pdf)
 
 **Programme:** Udacity AWS AI & ML Scholars Challenge
 
